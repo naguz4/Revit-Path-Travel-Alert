@@ -10,4 +10,4 @@ Outputs:
 -Travel path in green < Distance
 -Travel path in Red > Distance
 
-![Alt Text](ezgif.com-crop)
+![Alt Text](ezgif.com-crop.gif)
